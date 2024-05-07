@@ -1,0 +1,308 @@
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\WorkSpace.API.csproj.AssemblyReference.cache
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\WorkSpace.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\WorkSpace.API.AssemblyInfoInputs.cache
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\WorkSpace.API.AssemblyInfo.cs
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\WorkSpace.API.csproj.CoreCompileInputs.cache
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\WorkSpace.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\WorkSpace.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\appsettings.json
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\WorkSpace.API.exe
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\WorkSpace.API.deps.json
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\WorkSpace.API.runtimeconfig.json
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\WorkSpace.API.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\WorkSpace.API.pdb
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Humanizer.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\WorkSpace.Core.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\WorkSpace.Data.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\WorkSpace.Service.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\WorkSpace.Data.pdb
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\WorkSpace.Service.pdb
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\WorkSpace.Core.pdb
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\staticwebassets\msbuild.WorkSpace.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\staticwebassets\msbuild.build.WorkSpace.API.props
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WorkSpace.API.props
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WorkSpace.API.props
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\scopedcss\bundle\WorkSpace.API.styles.css
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\WorkSpace.API.csproj.CopyComplete
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\WorkSpace.API.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\refint\WorkSpace.API.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\WorkSpace.API.pdb
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\WorkSpace.API.genruntimeconfig.cache
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\ref\WorkSpace.API.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\obj\Debug\net6.0\WorkSpace.API.csproj.AssemblyReference.cache
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\obj\Debug\net6.0\WorkSpace.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\obj\Debug\net6.0\WorkSpace.API.AssemblyInfoInputs.cache
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\obj\Debug\net6.0\WorkSpace.API.AssemblyInfo.cs
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\obj\Debug\net6.0\WorkSpace.API.csproj.CoreCompileInputs.cache
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\obj\Debug\net6.0\WorkSpace.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\obj\Debug\net6.0\WorkSpace.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\obj\Debug\net6.0\WorkSpace.API.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\obj\Debug\net6.0\refint\WorkSpace.API.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\obj\Debug\net6.0\WorkSpace.API.pdb
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\appsettings.json
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\WorkSpace.API.exe
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\WorkSpace.API.deps.json
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\WorkSpace.API.runtimeconfig.json
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\WorkSpace.API.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\WorkSpace.API.pdb
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\Humanizer.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\WorkSpace.Core.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\WorkSpace.Data.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\WorkSpace.Service.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\WorkSpace.Data.pdb
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\WorkSpace.Service.pdb
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\bin\Debug\net6.0\WorkSpace.Core.pdb
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\obj\Debug\net6.0\staticwebassets\msbuild.WorkSpace.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\obj\Debug\net6.0\staticwebassets\msbuild.build.WorkSpace.API.props
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WorkSpace.API.props
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WorkSpace.API.props
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\obj\Debug\net6.0\scopedcss\bundle\WorkSpace.API.styles.css
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\obj\Debug\net6.0\WorkSpace.API.csproj.CopyComplete
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\obj\Debug\net6.0\WorkSpace.API.genruntimeconfig.cache
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace\obj\Debug\net6.0\ref\WorkSpace.API.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\appsettings.json
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\WorkSpace.API.exe
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\WorkSpace.API.deps.json
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\WorkSpace.API.runtimeconfig.json
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\WorkSpace.API.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\WorkSpace.API.pdb
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\Humanizer.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\WorkSpace.Core.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\WorkSpace.Data.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\WorkSpace.Service.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\WorkSpace.Data.pdb
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\WorkSpace.Service.pdb
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\bin\Debug\net6.0\WorkSpace.Core.pdb
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\obj\Debug\net6.0\WorkSpace.API.csproj.AssemblyReference.cache
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\obj\Debug\net6.0\WorkSpace.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\obj\Debug\net6.0\WorkSpace.API.AssemblyInfoInputs.cache
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\obj\Debug\net6.0\WorkSpace.API.AssemblyInfo.cs
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\obj\Debug\net6.0\WorkSpace.API.csproj.CoreCompileInputs.cache
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\obj\Debug\net6.0\WorkSpace.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\obj\Debug\net6.0\WorkSpace.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\obj\Debug\net6.0\staticwebassets\msbuild.WorkSpace.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\obj\Debug\net6.0\staticwebassets\msbuild.build.WorkSpace.API.props
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WorkSpace.API.props
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WorkSpace.API.props
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\obj\Debug\net6.0\scopedcss\bundle\WorkSpace.API.styles.css
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\obj\Debug\net6.0\WorkSpace.API.csproj.CopyComplete
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\obj\Debug\net6.0\WorkSpace.API.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\obj\Debug\net6.0\refint\WorkSpace.API.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\obj\Debug\net6.0\WorkSpace.API.pdb
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\obj\Debug\net6.0\WorkSpace.API.genruntimeconfig.cache
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace\obj\Debug\net6.0\ref\WorkSpace.API.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\appsettings.json
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\WorkSpace.API.exe
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\WorkSpace.API.deps.json
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\WorkSpace.API.runtimeconfig.json
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\WorkSpace.API.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\WorkSpace.API.pdb
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\Humanizer.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\WorkSpace.Core.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\WorkSpace.Data.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\WorkSpace.Service.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\WorkSpace.Data.pdb
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\WorkSpace.Service.pdb
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\bin\Debug\net6.0\WorkSpace.Core.pdb
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\obj\Debug\net6.0\WorkSpace.API.csproj.AssemblyReference.cache
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\obj\Debug\net6.0\WorkSpace.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\obj\Debug\net6.0\WorkSpace.API.AssemblyInfoInputs.cache
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\obj\Debug\net6.0\WorkSpace.API.AssemblyInfo.cs
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\obj\Debug\net6.0\WorkSpace.API.csproj.CoreCompileInputs.cache
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\obj\Debug\net6.0\WorkSpace.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\obj\Debug\net6.0\WorkSpace.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\obj\Debug\net6.0\staticwebassets\msbuild.WorkSpace.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\obj\Debug\net6.0\staticwebassets\msbuild.build.WorkSpace.API.props
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WorkSpace.API.props
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WorkSpace.API.props
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\obj\Debug\net6.0\scopedcss\bundle\WorkSpace.API.styles.css
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\obj\Debug\net6.0\WorkSpace.API.csproj.CopyComplete
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\obj\Debug\net6.0\WorkSpace.API.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\obj\Debug\net6.0\refint\WorkSpace.API.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\obj\Debug\net6.0\WorkSpace.API.pdb
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\obj\Debug\net6.0\WorkSpace.API.genruntimeconfig.cache
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace\obj\Debug\net6.0\ref\WorkSpace.API.dll

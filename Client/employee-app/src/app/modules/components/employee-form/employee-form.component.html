@@ -1,0 +1,121 @@
+<form [formGroup]="employeeForm" class="employee-form">
+  <!-- Back button -->
+  <div *ngIf="!showEmployeeForm">
+    <button mat-icon-button (click)="handleShowEmployeeForm()">
+      <mat-icon>arrow_back</mat-icon>
+    </button>
+  </div>
+  <!-- Title -->
+  <h4>Edit Employee</h4>
+
+  <!-- Employee Form -->
+  <div class="form-row" *ngIf="showEmployeeForm">
+    <div class="form-column">
+      <!-- First Name -->
+      <mat-form-field appearance="outline" class="form-field">
+        <mat-label>First Name</mat-label>
+        <input matInput type="text" formControlName="firstName" required />
+      </mat-form-field>
+
+      <!-- Last Name -->
+      <mat-form-field appearance="outline" class="form-field">
+        <mat-label>Last Name</mat-label>
+        <input matInput type="text" formControlName="lastName" required />
+      </mat-form-field>
+
+      <!-- ID Number -->
+      <mat-form-field appearance="outline" class="form-field">
+        <mat-label>ID Number</mat-label>
+        <input matInput type="text" formControlName="idNumber" required />
+        <!-- Error message for invalid ID number -->
+        <mat-error
+          *ngIf="
+            employeeForm.get('idNumber')?.errors &&
+            employeeForm.get('idNumber')?.touched
+          "
+        >
+          ID Number must contain exactly 9 digits
+        </mat-error>
+      </mat-form-field>
+
+      <!-- Is Active Checkbox -->
+      <mat-checkbox formControlName="isActive" class="form-field"
+        >Is Active</mat-checkbox
+      >
+    </div>
+
+    <div class="form-column">
+      <!-- Start Date -->
+      <mat-form-field appearance="outline" class="form-field">
+        <mat-label>Start Date</mat-label>
+        <input
+          matInput
+          [matDatepicker]="startDatePicker"
+          formControlName="dateStartingWork"
+          required
+        />
+        <mat-datepicker-toggle
+          matSuffix
+          [for]="startDatePicker"
+        ></mat-datepicker-toggle>
+        <mat-datepicker #startDatePicker></mat-datepicker>
+      </mat-form-field>
+
+      <!-- Date of Birth -->
+      <mat-form-field appearance="outline" class="form-field">
+        <mat-label>Date of Birth</mat-label>
+        <input
+          matInput
+          [matDatepicker]="dobDatePicker"
+          formControlName="dateOfBirth"
+          required
+        />
+        <mat-datepicker-toggle
+          matSuffix
+          [for]="dobDatePicker"
+        ></mat-datepicker-toggle>
+        <mat-datepicker #dobDatePicker></mat-datepicker>
+      </mat-form-field>
+
+      <!-- Gender -->
+      <mat-form-field appearance="outline" class="form-field">
+        <mat-label appearance="outline" class="form-field">
+          {{ employee ? (employee.gender == 1 ? "Famale" : "Male") : "Gender" }}
+        </mat-label>
+        <mat-select formControlName="gender" required>
+          <mat-option value="Male">Male</mat-option>
+          <mat-option value="Famale">Female</mat-option>
+        </mat-select>
+      </mat-form-field>
+    </div>
+  </div>
+
+  <!-- Roles Component -->
+  <app-all-roles
+    *ngIf="!showEmployeeForm && employee"
+    [roles]="employee.roles"
+    [dateStartingWork]="employee.dateStartingWork"
+    (rolesUpdated)="onSaveRoles($event)"
+  ></app-all-roles>
+
+  <!-- Roles and Save Buttons -->
+  <button
+    *ngIf="showEmployeeForm"
+    mat-raised-button
+    color="primary"
+    (click)="handleShowRoles()"
+    class="form-field custom-button"
+  >
+    Roles
+  </button>
+  <button
+    type="submit"
+    (click)="onSubmit()"
+    mat-raised-button
+    color="primary"
+    *ngIf="showEmployeeForm"
+    class="form-field custom-button"
+  >
+    Save
+  </button>
+</form>

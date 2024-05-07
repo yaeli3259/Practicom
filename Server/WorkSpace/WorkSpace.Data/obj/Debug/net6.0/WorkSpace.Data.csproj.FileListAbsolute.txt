@@ -1,0 +1,68 @@
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\Worker.Data\obj\Debug\net6.0\WorkSpace.Data.csproj.AssemblyReference.cache
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\Worker.Data\obj\Debug\net6.0\WorkSpace.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\Worker.Data\obj\Debug\net6.0\WorkSpace.Data.AssemblyInfoInputs.cache
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\Worker.Data\obj\Debug\net6.0\WorkSpace.Data.AssemblyInfo.cs
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\Worker.Data\obj\Debug\net6.0\WorkSpace.Data.csproj.CoreCompileInputs.cache
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\Worker.Data\bin\Debug\net6.0\WorkSpace.Data.deps.json
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\Worker.Data\bin\Debug\net6.0\WorkSpace.Data.runtimeconfig.json
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\Worker.Data\bin\Debug\net6.0\WorkSpace.Data.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\Worker.Data\bin\Debug\net6.0\WorkSpace.Data.pdb
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\Worker.Data\bin\Debug\net6.0\WorkSpace.Core.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\Worker.Data\bin\Debug\net6.0\WorkSpace.Core.pdb
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\Worker.Data\obj\Debug\net6.0\WorkSpace.Data.csproj.CopyComplete
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\Worker.Data\obj\Debug\net6.0\WorkSpace.Data.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\Worker.Data\obj\Debug\net6.0\refint\WorkSpace.Data.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\Worker.Data\obj\Debug\net6.0\WorkSpace.Data.pdb
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\Worker.Data\obj\Debug\net6.0\WorkSpace.Data.genruntimeconfig.cache
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\Worker.Data\obj\Debug\net6.0\ref\WorkSpace.Data.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace.Data\bin\Debug\net6.0\WorkSpace.Data.deps.json
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace.Data\bin\Debug\net6.0\WorkSpace.Data.runtimeconfig.json
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace.Data\bin\Debug\net6.0\WorkSpace.Data.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace.Data\bin\Debug\net6.0\WorkSpace.Data.pdb
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace.Data\bin\Debug\net6.0\WorkSpace.Core.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace.Data\bin\Debug\net6.0\WorkSpace.Core.pdb
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace.Data\obj\Debug\net6.0\WorkSpace.Data.csproj.AssemblyReference.cache
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace.Data\obj\Debug\net6.0\WorkSpace.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace.Data\obj\Debug\net6.0\WorkSpace.Data.AssemblyInfoInputs.cache
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace.Data\obj\Debug\net6.0\WorkSpace.Data.AssemblyInfo.cs
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace.Data\obj\Debug\net6.0\WorkSpace.Data.csproj.CoreCompileInputs.cache
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace.Data\obj\Debug\net6.0\WorkSpace.Data.csproj.CopyComplete
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace.Data\obj\Debug\net6.0\WorkSpace.Data.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace.Data\obj\Debug\net6.0\refint\WorkSpace.Data.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace.Data\obj\Debug\net6.0\WorkSpace.Data.pdb
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace.Data\obj\Debug\net6.0\WorkSpace.Data.genruntimeconfig.cache
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\WorkSpace.Data\obj\Debug\net6.0\ref\WorkSpace.Data.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace.Data\bin\Debug\net6.0\WorkSpace.Data.deps.json
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace.Data\bin\Debug\net6.0\WorkSpace.Data.runtimeconfig.json
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace.Data\bin\Debug\net6.0\WorkSpace.Data.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace.Data\bin\Debug\net6.0\WorkSpace.Data.pdb
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace.Data\bin\Debug\net6.0\WorkSpace.Core.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace.Data\bin\Debug\net6.0\WorkSpace.Core.pdb
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace.Data\obj\Debug\net6.0\WorkSpace.Data.csproj.AssemblyReference.cache
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace.Data\obj\Debug\net6.0\WorkSpace.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace.Data\obj\Debug\net6.0\WorkSpace.Data.AssemblyInfoInputs.cache
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace.Data\obj\Debug\net6.0\WorkSpace.Data.AssemblyInfo.cs
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace.Data\obj\Debug\net6.0\WorkSpace.Data.csproj.CoreCompileInputs.cache
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace.Data\obj\Debug\net6.0\WorkSpace.Data.csproj.CopyComplete
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace.Data\obj\Debug\net6.0\WorkSpace.Data.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace.Data\obj\Debug\net6.0\refint\WorkSpace.Data.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace.Data\obj\Debug\net6.0\WorkSpace.Data.pdb
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace.Data\obj\Debug\net6.0\WorkSpace.Data.genruntimeconfig.cache
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\WorkSpace\WorkSpace.Data\obj\Debug\net6.0\ref\WorkSpace.Data.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace.Data\bin\Debug\net6.0\WorkSpace.Data.deps.json
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace.Data\bin\Debug\net6.0\WorkSpace.Data.runtimeconfig.json
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace.Data\bin\Debug\net6.0\WorkSpace.Data.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace.Data\bin\Debug\net6.0\WorkSpace.Data.pdb
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace.Data\bin\Debug\net6.0\WorkSpace.Core.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace.Data\bin\Debug\net6.0\WorkSpace.Core.pdb
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace.Data\obj\Debug\net6.0\WorkSpace.Data.csproj.AssemblyReference.cache
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace.Data\obj\Debug\net6.0\WorkSpace.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace.Data\obj\Debug\net6.0\WorkSpace.Data.AssemblyInfoInputs.cache
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace.Data\obj\Debug\net6.0\WorkSpace.Data.AssemblyInfo.cs
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace.Data\obj\Debug\net6.0\WorkSpace.Data.csproj.CoreCompileInputs.cache
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace.Data\obj\Debug\net6.0\WorkSpace.Data.csproj.CopyComplete
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace.Data\obj\Debug\net6.0\WorkSpace.Data.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace.Data\obj\Debug\net6.0\refint\WorkSpace.Data.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace.Data\obj\Debug\net6.0\WorkSpace.Data.pdb
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace.Data\obj\Debug\net6.0\WorkSpace.Data.genruntimeconfig.cache
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\Server\WorkSpace\WorkSpace.Data\obj\Debug\net6.0\ref\WorkSpace.Data.dll

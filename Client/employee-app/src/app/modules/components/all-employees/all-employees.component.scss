@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("../../../../assets/Background.webp");
+  background-size: cover;
+  // background-position: center;
+}
+
+.background-container {
+  padding: 20px;
+}
+
+.custom-search-field {
+  width: 50%; /* Adjust the width of the search field as needed */
+}
+
+.custom-search-field {
+  width: 200px;
+  height: 70px;
+}
+
+.mat-form-field-label {
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+
+.search-icon {
+  font-size: 24px;
+}
+// .custom-table {
+//   width: 80%; /* Adjust the width as needed */
+//   margin: auto; /* Center the table horizontally */
+// }
+.custom-table {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 20px;
+  width: 80%;
+  margin: auto;
+}
+.mat-mdc-row .mat-mdc-cell {
+  border-bottom: 1.1px solid transparent;
+  border-top: 1.1px solid transparent;
+  cursor: pointer;
+}
+.mat-mdc-row:hover .mat-mdc-cell {
+  border-color: rgb(178, 173, 173);
+}

@@ -1,0 +1,47 @@
+<form [formGroup]="roleForm" (ngSubmit)="onSubmit()" class="role-form">
+  <mat-form-field appearance="fill" class="form-field">
+    <mat-label appearance="outline" class="form-field">
+      {{ role ? roleNames[role.name] : "Role Name" }}
+    </mat-label>
+    <mat-select formControlName="name">
+      <mat-option *ngFor="let roleName of roleNames" [value]="roleName">{{
+        roleName
+      }}</mat-option>
+    </mat-select>
+    <mat-error *ngIf="roleForm.get('name')?.hasError('required')"
+      >Role Name is required</mat-error
+    >
+  </mat-form-field>
+
+  <mat-form-field appearance="outline" class="form-field">
+    <mat-label>Start Date</mat-label>
+    <input
+      matInput
+      [matDatepicker]="startDatePicker"
+      formControlName="startDate"
+      required
+    />
+    <mat-datepicker-toggle
+      matSuffix
+      [for]="startDatePicker"
+    ></mat-datepicker-toggle>
+    <mat-datepicker #startDatePicker></mat-datepicker>
+    <mat-error *ngIf="roleForm.get('startDate')?.hasError('required')"
+      >Start Date is required</mat-error
+    >
+  </mat-form-field>
+
+  <mat-checkbox formControlName="isAdministrative"
+    >Is Administrative</mat-checkbox
+  >
+
+  <button
+    type="submit"
+    mat-raised-button
+    color="primary"
+    [disabled]="roleForm.invalid"
+  >
+    Submit
+  </button>
+</form>
+

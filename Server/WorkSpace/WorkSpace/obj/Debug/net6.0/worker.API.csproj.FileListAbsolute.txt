@@ -1,0 +1,368 @@
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\appsettings.json
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\worker.API.exe
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\worker.API.deps.json
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\worker.API.runtimeconfig.json
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\worker.API.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\worker.API.pdb
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\Worker.Core.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\Worker.Data.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\Worker.Service.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\Worker.Data.pdb
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\Worker.Service.pdb
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\bin\Debug\net6.0\Worker.Core.pdb
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\obj\Debug\net6.0\worker.API.csproj.AssemblyReference.cache
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\obj\Debug\net6.0\worker.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\obj\Debug\net6.0\worker.API.AssemblyInfoInputs.cache
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\obj\Debug\net6.0\worker.API.AssemblyInfo.cs
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\obj\Debug\net6.0\worker.API.csproj.CoreCompileInputs.cache
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\obj\Debug\net6.0\worker.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\obj\Debug\net6.0\worker.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\obj\Debug\net6.0\staticwebassets\msbuild.worker.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\obj\Debug\net6.0\staticwebassets\msbuild.build.worker.API.props
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.worker.API.props
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.worker.API.props
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\obj\Debug\net6.0\scopedcss\bundle\worker.API.styles.css
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\obj\Debug\net6.0\worker.API.csproj.CopyComplete
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\obj\Debug\net6.0\worker.API.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\obj\Debug\net6.0\refint\worker.API.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\obj\Debug\net6.0\worker.API.pdb
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\obj\Debug\net6.0\worker.API.genruntimeconfig.cache
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\workers\obj\Debug\net6.0\ref\worker.API.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\appsettings.json
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\worker.API.exe
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\worker.API.deps.json
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\worker.API.runtimeconfig.json
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\worker.API.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\worker.API.pdb
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\Worker.Core.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\Worker.Data.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\Worker.Service.dll
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\Worker.Data.pdb
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\Worker.Service.pdb
+C:\Users\user1\Desktop\workers\workers\bin\Debug\net6.0\Worker.Core.pdb
+C:\Users\user1\Desktop\workers\workers\obj\Debug\net6.0\worker.API.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\workers\workers\obj\Debug\net6.0\worker.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\workers\workers\obj\Debug\net6.0\worker.API.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\workers\workers\obj\Debug\net6.0\worker.API.AssemblyInfo.cs
+C:\Users\user1\Desktop\workers\workers\obj\Debug\net6.0\worker.API.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\workers\workers\obj\Debug\net6.0\worker.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\workers\workers\obj\Debug\net6.0\worker.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\workers\workers\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user1\Desktop\workers\workers\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user1\Desktop\workers\workers\obj\Debug\net6.0\scopedcss\bundle\worker.API.styles.css
+C:\Users\user1\Desktop\workers\workers\obj\Debug\net6.0\worker.API.csproj.CopyComplete
+C:\Users\user1\Desktop\workers\workers\obj\Debug\net6.0\worker.API.dll
+C:\Users\user1\Desktop\workers\workers\obj\Debug\net6.0\refint\worker.API.dll
+C:\Users\user1\Desktop\workers\workers\obj\Debug\net6.0\worker.API.pdb
+C:\Users\user1\Desktop\workers\workers\obj\Debug\net6.0\worker.API.genruntimeconfig.cache
+C:\Users\user1\Desktop\workers\workers\obj\Debug\net6.0\ref\worker.API.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\appsettings.json
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\worker.API.exe
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\worker.API.deps.json
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\worker.API.runtimeconfig.json
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\worker.API.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\worker.API.pdb
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\Worker.Core.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\Worker.Data.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\Worker.Service.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\Worker.Data.pdb
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\Worker.Service.pdb
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\bin\Debug\net6.0\Worker.Core.pdb
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\obj\Debug\net6.0\worker.API.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\obj\Debug\net6.0\worker.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\obj\Debug\net6.0\worker.API.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\obj\Debug\net6.0\worker.API.AssemblyInfo.cs
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\obj\Debug\net6.0\worker.API.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\obj\Debug\net6.0\worker.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\obj\Debug\net6.0\worker.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\obj\Debug\net6.0\scopedcss\bundle\worker.API.styles.css
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\obj\Debug\net6.0\worker.API.csproj.CopyComplete
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\obj\Debug\net6.0\worker.API.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\obj\Debug\net6.0\refint\worker.API.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\obj\Debug\net6.0\worker.API.pdb
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\obj\Debug\net6.0\worker.API.genruntimeconfig.cache
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\workers\obj\Debug\net6.0\ref\worker.API.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\Worker.API.csproj.AssemblyReference.cache
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\Worker.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\Worker.API.AssemblyInfoInputs.cache
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\Worker.API.AssemblyInfo.cs
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\Worker.API.csproj.CoreCompileInputs.cache
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\Worker.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\Worker.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\Worker.API.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\refint\Worker.API.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\Worker.API.pdb
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\appsettings.json
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Worker.API.exe
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Worker.API.deps.json
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Worker.API.runtimeconfig.json
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Worker.API.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Worker.API.pdb
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Humanizer.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Worker.Core.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Worker.Data.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Worker.Service.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Worker.Data.pdb
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Worker.Service.pdb
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Worker.Core.pdb
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\staticwebassets\msbuild.Worker.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\staticwebassets\msbuild.build.Worker.API.props
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Worker.API.props
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Worker.API.props
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\scopedcss\bundle\Worker.API.styles.css
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\Worker.API.csproj.CopyComplete
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\Worker.API.genruntimeconfig.cache
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\ref\Worker.API.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\appsettings.json
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Worker.API.exe
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Worker.API.deps.json
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Worker.API.runtimeconfig.json
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Worker.API.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Worker.API.pdb
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Humanizer.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\WorkSpace.Core.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\WorkSpace.Service.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\WorkSpace.Service.pdb
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\WorkSpace.Core.pdb
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\Worker.API.csproj.AssemblyReference.cache
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\Worker.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\Worker.API.AssemblyInfoInputs.cache
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\Worker.API.AssemblyInfo.cs
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\Worker.API.csproj.CoreCompileInputs.cache
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\Worker.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\Worker.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\staticwebassets\msbuild.Worker.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\staticwebassets\msbuild.build.Worker.API.props
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Worker.API.props
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Worker.API.props
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\scopedcss\bundle\Worker.API.styles.css
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\Worker.API.csproj.CopyComplete
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\Worker.API.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\refint\Worker.API.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\Worker.API.pdb
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\Worker.API.genruntimeconfig.cache
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\obj\Debug\net6.0\ref\Worker.API.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\WorkSpace.Data.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\workers\bin\Debug\net6.0\WorkSpace.Data.pdb

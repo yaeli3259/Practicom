@@ -1,0 +1,85 @@
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\Worker.Data\bin\Debug\net6.0\Worker.Data.deps.json
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\Worker.Data\bin\Debug\net6.0\Worker.Data.runtimeconfig.json
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\Worker.Data\bin\Debug\net6.0\Worker.Data.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\Worker.Data\bin\Debug\net6.0\Worker.Data.pdb
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\Worker.Data\bin\Debug\net6.0\Worker.Core.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\Worker.Data\bin\Debug\net6.0\Worker.Core.pdb
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.csproj.AssemblyReference.cache
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.AssemblyInfoInputs.cache
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.AssemblyInfo.cs
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.csproj.CoreCompileInputs.cache
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.csproj.CopyComplete
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\Worker.Data\obj\Debug\net6.0\refint\Worker.Data.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.pdb
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.genruntimeconfig.cache
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקום\workers\Worker.Data\obj\Debug\net6.0\ref\Worker.Data.dll
+C:\Users\user1\Desktop\workers\Worker.Data\bin\Debug\net6.0\Worker.Data.deps.json
+C:\Users\user1\Desktop\workers\Worker.Data\bin\Debug\net6.0\Worker.Data.runtimeconfig.json
+C:\Users\user1\Desktop\workers\Worker.Data\bin\Debug\net6.0\Worker.Data.dll
+C:\Users\user1\Desktop\workers\Worker.Data\bin\Debug\net6.0\Worker.Data.pdb
+C:\Users\user1\Desktop\workers\Worker.Data\bin\Debug\net6.0\Worker.Core.dll
+C:\Users\user1\Desktop\workers\Worker.Data\bin\Debug\net6.0\Worker.Core.pdb
+C:\Users\user1\Desktop\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.AssemblyInfo.cs
+C:\Users\user1\Desktop\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.csproj.CopyComplete
+C:\Users\user1\Desktop\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.dll
+C:\Users\user1\Desktop\workers\Worker.Data\obj\Debug\net6.0\refint\Worker.Data.dll
+C:\Users\user1\Desktop\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.pdb
+C:\Users\user1\Desktop\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.genruntimeconfig.cache
+C:\Users\user1\Desktop\workers\Worker.Data\obj\Debug\net6.0\ref\Worker.Data.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\Worker.Data\bin\Debug\net6.0\Worker.Data.deps.json
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\Worker.Data\bin\Debug\net6.0\Worker.Data.runtimeconfig.json
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\Worker.Data\bin\Debug\net6.0\Worker.Data.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\Worker.Data\bin\Debug\net6.0\Worker.Data.pdb
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\Worker.Data\bin\Debug\net6.0\Worker.Core.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\Worker.Data\bin\Debug\net6.0\Worker.Core.pdb
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.AssemblyInfo.cs
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.csproj.CopyComplete
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\Worker.Data\obj\Debug\net6.0\refint\Worker.Data.dll
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.pdb
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.genruntimeconfig.cache
+C:\Users\user1\Desktop\לימודים שנה ב\פרקטיקום\workers\Worker.Data\obj\Debug\net6.0\ref\Worker.Data.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.csproj.AssemblyReference.cache
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.AssemblyInfoInputs.cache
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.AssemblyInfo.cs
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.csproj.CoreCompileInputs.cache
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\Worker.Data\obj\Debug\net6.0\refint\Worker.Data.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.pdb
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\Worker.Data\bin\Debug\net6.0\Worker.Data.deps.json
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\Worker.Data\bin\Debug\net6.0\Worker.Data.runtimeconfig.json
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\Worker.Data\bin\Debug\net6.0\Worker.Data.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\Worker.Data\bin\Debug\net6.0\Worker.Data.pdb
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\Worker.Data\bin\Debug\net6.0\Worker.Core.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\Worker.Data\bin\Debug\net6.0\Worker.Core.pdb
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.csproj.CopyComplete
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.genruntimeconfig.cache
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקום\‏‏Practicom-main - עותק\workers\Worker.Data\obj\Debug\net6.0\ref\Worker.Data.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\Worker.Data\bin\Debug\net6.0\Worker.Data.deps.json
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\Worker.Data\bin\Debug\net6.0\Worker.Data.runtimeconfig.json
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\Worker.Data\bin\Debug\net6.0\Worker.Data.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\Worker.Data\bin\Debug\net6.0\Worker.Data.pdb
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\Worker.Data\bin\Debug\net6.0\WorkSpace.Core.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\Worker.Data\bin\Debug\net6.0\WorkSpace.Core.pdb
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.csproj.AssemblyReference.cache
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.AssemblyInfoInputs.cache
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.AssemblyInfo.cs
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.csproj.CoreCompileInputs.cache
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.csproj.CopyComplete
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\Worker.Data\obj\Debug\net6.0\refint\Worker.Data.dll
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.pdb
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\Worker.Data\obj\Debug\net6.0\Worker.Data.genruntimeconfig.cache
+C:\Users\yaeli barda\Desktop\‏‏Practicom-main - עותק\workers\Worker.Data\obj\Debug\net6.0\ref\Worker.Data.dll
